@@ -1,0 +1,33 @@
+# this is a config.dat file for the AncesTree application
+# the parameters must be entered in any order shown
+# config entries must be formatted with field name
+# fleld names must be spelled exactly as shown below
+# separated by comma and space (", ")
+# it is recommended that you create new configs by
+# editing the second items in each line in this sample
+# lines beginning with hash (#) are ignored
+# blank lines are ignored
+# allowed field names
+# zipFileName
+# tif directory
+# tifPrefix
+# nuclei directory
+# root name
+# starting index
+# ending index
+# use zip
+# axis
+# namingMethod
+#
+zipFileName, Sophia.zip
+tif directory, Sophia_tif
+tifPrefix, tif/movie1021m2001_L1-
+nuclei directory, nuclei
+root name, Start
+starting index, 1
+ending index, 63
+use zip, 0
+namingMethod, NEWCANONICAL
+
+
+

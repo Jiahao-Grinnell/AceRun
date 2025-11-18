@@ -1,0 +1,53 @@
+AceTree - software for viewing, editing, and interpreting automated C elegans
+lineaging images and annotations
+Version 20060227
+Copyright (C) 2005-2006 Genome Sciences/University of Washington School of 
+Medicine
+---------------------------------------------------------------------------
+Copyright
+
+Please see file COPYRIGHT included with the zip distribution
+
+License
+
+AceTree is offered under the GNU Public License, version 2
+see file LICENCE included with the zip distribution
+
+
+Installing AceTree
+
+If your machine has java installed and on the path then open a command or
+terminal window, move to the AceTreeDemo directory created when you unzipped our
+package and enter at the prompt: 
+
+java -jar AceTree.jar
+
+Go to the Help menu of the AceTree control and open the Help..Help..AceTreeDemo
+item.
+
+This brings up a tutorial introduction to AceTree that tells how to bring 
+up the demo data and interact with it.
+
+The AceTreeDemo directory that was created should contain:
+
+195567058 Feb 21 09:53 081505_50.zip		tiff image files 50x35
+  524547 Sep  7 15:19 081505-edit.zip		StarryNite annotations
+ 1594933 Feb 27 10:53 AceTree.jar		AceTree class and src files
+    1545 Feb 28 15:09 COPYRIGHT			copyright terms
+     790 Feb 21 11:12 demo.dat			AceTree config file
+  960428 Dec 15  2004 ij.jar			ImageJ jar file (required)
+   17982 Oct  4  2003 LICENSE			GNU Public License
+      48 Feb 28 14:55 NOTES			Release notes
+    1591 Feb 28 15:09 README.AceTree		this file
+
+
+
+Updates when available can be downloaded from:
+http://waterston.gs.washington.edu
+The version string in the Help..About dialog is the build date.
+      
+Please report bugs to:
+
+Tom Boyle, biowolp@u.washington.edu
+
+

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<embryo>
+<image file="D:/MAPS/Sophia-MAP25/1021tiffolders/1021m20tifs63/movie1021m2001_L1-t002-p17.tif"/>
+<Flip FlipMode="0"/>
+<Split SplitMode="0"/>
+<nuclei file="D:/MAPS/Sophia-MAP25/outputs/1021m2002tifs63/1021m20tifs63/movie1021m2001_L1_emb1.zip"/>
+<end index="63"/>
+<resolution xyRes="0.16" zRes="1" planeEnd="35"/> <exprCorr type="blot"/>
+<polar size="15"/>
+</embryo>
